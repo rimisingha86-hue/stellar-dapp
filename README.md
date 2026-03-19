@@ -1,6 +1,7 @@
 # Soroban Project
 
 ## Project Structure
+## contract id : https://stellar.expert/explorer/testnet/contract/CDIHUNUIGGEQJ4B5SYQQN37K46T4Q4YLNQXHJEEBQQOMWGFKHOURCNW5
 
 This repository uses the recommended structure for a Soroban project:
 
